@@ -207,9 +207,3 @@ while k:
         print("\n[**] Thank You For Using ")
         os.system("clear")
         break
-
-
-# from brute import brute
-#
-# for s in brute():
-#     print (s)
